@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natasha blog</title>
+    <title>Natasha&#39;s blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Natasha blog</description>
+    <description>Recent content on Natasha&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <copyright>© 2024 Natasha Hrycan</copyright>
     <lastBuildDate>Wed, 24 Jul 2024 10:40:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Wed, 24 Jul 2024 10:40:44 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>#So this is what a post looks like i do not know what to write here</description>
-      
-    </item>
-    
   </channel>
 </rss>
