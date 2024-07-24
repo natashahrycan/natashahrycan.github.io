@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Natasha blog'
 theme = 'blowfish'
+enableRobotsTXT = 'true'
