@@ -38,7 +38,7 @@ At the moment I am an affiliated member of the Max Planck Institute of Mathemati
 
 <div style="padding-bottom: 20px;">
   <blockquote>
-    <p>*sights*</p>
+    <p>*sighs*</p>
   </blockquote>
   <p>—<cite>My mom and siblings</cite></p>
 </div>
