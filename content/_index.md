@@ -24,7 +24,7 @@ At the moment I am an affiliated member of the Max Planck Institute of Mathemati
 
 <div style="padding-bottom: 20px;">
   <blockquote>
-    <p>Not a single year in the National Maths Olympiads where she went to sleep ealy before the exam, yet she won medals every single year.</p>
+    <p>Not a single year in the National Maths Olympiads where she went to sleep early before the exam, yet she won medals every single year.</p>
   </blockquote>
   <p>—<cite>My school Maths teacher</cite></p>
 </div>
