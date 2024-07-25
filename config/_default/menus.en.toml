@@ -11,50 +11,55 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Studies"
+  name = "Home"
+  pageRef = "/" 
   weight = 10
+
+[[main]]
+  name = "Studies"
+  weight = 20
 
 [[main]]
   name = "Master's study blog"
   parent = "Studies"
   pageRef = "study_posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Student life"
   parent = "Studies"
   pageRef = "student_life"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Recommendations"
   pageRef = "recommendations"
   parent = "Studies"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Work"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Research"
   pageRef = "research"
   parent = "Work"
-  weight = 20
+  weight = 30
   
 [[main]]
   name = "Projects"
   pageRef = "projects"
   parent = "Work"
-  weight = 20
-
-[[main]]
-  name = "About me"
   weight = 30
 
 [[main]]
-  name = "Contact"
+  name = "About me"
   weight = 40
+
+[[main]]
+  name = "Contact"
+  weight = 50
 
 #[[subnavigation]]
 #  name = "An interesting topic"
