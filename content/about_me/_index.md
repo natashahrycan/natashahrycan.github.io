@@ -1,6 +1,6 @@
 ---
 title: "About me"
-description: Articles related to my work projects or ongoing research.
+description: Articles related about my life further than work and studies
 ---
 
 Description coming soon :P
