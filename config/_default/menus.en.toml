@@ -17,6 +17,7 @@
 
 [[main]]
   name = "Studies"
+  pageRef = "studies"
   weight = 20
 
 [[main]]
@@ -39,6 +40,7 @@
 
 [[main]]
   name = "Work"
+  pageRef = "work"
   weight = 30
 
 [[main]]
@@ -55,6 +57,7 @@
 
 [[main]]
   name = "About me"
+  pageRef = "about_me"
   weight = 40
 
 [[main]]
