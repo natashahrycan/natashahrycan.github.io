@@ -5,7 +5,7 @@ draft: false
 summary: "A couple of things I have learned while writing my bachelor thesis"
 ---
 
-Now that I have finished my bachelor thesis, I thought it might come in handy to share some tips to make your thesis experience a bit more plausible. As you already know (or will soon know), dear reader, the process of writing a thesis can be long and tedious, and I share your suffering. If you are in the process (or will soon be) of writing your thesis, I would like to share some wisdom on things that helped me go through it. 
+Now that I have finished my bachelor thesis, I thought it might come in handy to share some tips to make your thesis experience a bit more painless. As you already know (or will soon know), dear reader, the process of writing a thesis can be long and tedious, and I share your suffering. If you are in the process (or will soon be) of writing your thesis, I would like to share some wisdom on things that helped me go through it. 
 
 Take these suggestions with a grain of salt, we are all different and if these tips don't work for you, it's just because something else fits you better! Take it easy friend, now let's dig in.
 

@@ -9,6 +9,16 @@
     <copyright>© 2024 Natasha Hrycan</copyright>
     <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bachelor thesis</title>
+      <link>http://localhost:1313/work/research/bsc_thesis/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/research/bsc_thesis/</guid>
+      <description>An overview of the work I did for my bachelor thesis</description>
+      
+    </item>
+    
+    <item>
       <title>Tips for thesis writers</title>
       <link>http://localhost:1313/studies/student_life/tips_thesis_writing/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
