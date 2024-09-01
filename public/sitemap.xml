@@ -4,19 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/about_me/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/about_me/first_triathlon/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,6 +29,16 @@
   <url>
     <loc>http://localhost:1313/work/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about_me/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about_me/first_triathlon/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

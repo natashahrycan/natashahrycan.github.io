@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mountains on Natasha Hrycan</title>
+    <link>http://localhost:1313/tags/mountains/</link>
+    <description>Recent content in Mountains on Natasha Hrycan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Natasha Hrycan</copyright>
+    <atom:link href="http://localhost:1313/tags/mountains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first triathlon!</title>
+      <link>http://localhost:1313/about_me/first_triathlon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about_me/first_triathlon/</guid>
+      <description>My experience in my first mountain triathlon in Norway</description>
+      
+    </item>
+    
+  </channel>
+</rss>
