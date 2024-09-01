@@ -3,6 +3,7 @@ title: "Tips for thesis writers"
 date: 2024-08-30
 draft: false
 summary: "A couple of things I have learned while writing my bachelor thesis"
+tags: ["thesis", "tips"]
 ---
 
 Now that I have finished my bachelor thesis, I thought it might come in handy to share some tips to make your thesis experience a bit more painless. As you already know (or will soon know), dear reader, the process of writing a thesis can be long and tedious, and I share your suffering. If you are in the process (or will soon be) of writing your thesis, I would like to share some wisdom on things that helped me go through it. 
@@ -40,4 +41,4 @@ I would schedule short breaks with a Pomodoro timer (25/5 or 50/10, depending on
 
 Yes, I know you are drinking extra coffee and energy drinks during this time. Your poor organs don't have the fault you're trying to graduate. Respect your body as the temple it is. If your body is not functioning properly, how are you expecting that your brain will work at its fullest? Once again, don't fool yourself! That's just auto-sabotage, and you're the one that will pay the consequences of your own actions.
 
-<strong>Tip:</strong> Drinking enough water in the morning before starting with your coffee may save you some headaches. Dear reader, your body naturally craves water. First thing you do in the morning is go and shove in a whole cup of coffee, and your still wondering why you need a paracetamol to get through the day? Put a sticker with a smiley face in your calendar every time you drink water before caffeine if that helps, but go and drink water for your own sake! Do not underestimate the importance of a healthy body for a healthy mind.
+<strong>Tip:</strong> Drinking enough water in the morning before starting with your coffee may save you some headaches. Dear reader, your body naturally craves water. First thing you do in the morning is go and shove in a whole cup of coffee, and you're still wondering why you need a paracetamol to get through the day? Put a sticker with a smiley face in your calendar every time you drink water before caffeine if that helps, but go and drink water for your own sake! Do not underestimate the importance of a healthy body for a healthy mind.
