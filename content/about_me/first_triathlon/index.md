@@ -45,8 +45,8 @@ We were in Bergen (Norway) for our DIY triathlon but as usual, the weather in Be
 
 <strong>Extra surprise: Northern lights!</strong> Seeing Northern lights in Bergen with the naked eye is difficult due to 2 reasons: it's not that close to the North and it is always cloudy. I was already in bed and exhausted, but my partner told me to go outside and we realized that those were not clouds, they were indeed some really nice green and pink Northern lights! It felt absolutely magical, I felt like in the movie "Brother Bear" (well they were not moving that fast or intensely, but it was definitely a lot given the location of Bergen). They were moving quicker than I thought they could, but still there are some nice shots of them. Eventually the clouds arrived and the show was over, so here you can enjoy some of the pictures of that night :D
 
-<img class="thumbnailshadow" src="images\IMG_9727.jpg">
+<img class="thumbnailshadow" src="images\IMG_9727.JPG">
 
 Here is a closer look, the colors were noticeable with the naked eye but not as intense as in the photographs.
 
-<img class="thumbnailshadow" src="images\IMG_9716.jpg">
+<img class="thumbnailshadow" src="images\IMG_9716.JPG">
