@@ -1,6 +1,6 @@
 ---
 title: "My first triathlon!"
-date: 2024-09-01
+date: 2024-09-02
 draft: false
 summary: "My experience in my first mountain triathlon in Norway"
 tags: ["sports", "about me", "mountains"]
@@ -25,6 +25,8 @@ We were in Bergen (Norway) for our DIY triathlon but as usual, the weather in Be
 
 <strong>Swimming:</strong> the weather was slightly better (only showers and eventually there would be sun according to the forecast), but the water was still pretty cold. Following the golden rule, I decided to shorten the swimming section to 100 m, as I was getting nervous in the water because of the cold and the stress of the triathlon. This is another aspect I love about sports, how they can be an exercise for mental strength and pushing yourself to do things. As I mentioned, the swim was short so after getting back to land I just went running to dry myself and start with the longest section, cycling.
 
+<img class="thumbnailshadow" src="images/IMG_9698_edited.JPG">
+
 <strong>Cycling:</strong> remember how I said that I was pretty confident with cycling? Well, I just have to say: never underestimate when a Scandinavian tells you that the path goes only uphill. When he told me that, I assumed that for most of it, it could go uphill, but it can't be that bad right? Needless to say I was absolutely wrong: the path went basically upwards all the time and I was too tired to even think about changing gears. Exhausting is a really light word to describe what the cycling stage was, it was a constant battle in my head, telling myself I can get to the finish line and avoiding to watch my watch, realizing I only did 3 km and I still had 7 to go. This is another reason why I wanted to do this triathlon, figure out my weaknesses to start working on them for next summer. So, even though I was breathless by the end, I did 10 km cycling up a mountain, how insane is that! One year ago I would have never believed it! Now I know I can do it and I know I have to put more effort on it for next season.
 
 <img class="thumbnailshadow" src="images/P_20240811_143209.jpg">
@@ -42,3 +44,6 @@ We were in Bergen (Norway) for our DIY triathlon but as usual, the weather in Be
 <img class="thumbnailshadow" src="images\P_20240811_19094.jpg">
 
 <strong>Extra surprise: Northern lights!</strong> Seeing Northern lights in Bergen with the naked eye is difficult due to 2 reasons: it's not that close to the North and it is always cloudy. I was already in bed and exhausted, but my partner told me to go outside and we realized that those were not clouds, they were indeed some really nice green and pink Northern lights! It felt absolutely magical, I felt like in the movie "Brother Bear" (well they were not moving that fast or intensely, but it was definitely a lot given the location of Bergen). They were moving quicker than I thought they could, but still there are some nice shots of them. Eventually the clouds arrived and the show was over, so here you can enjoy some of the pictures of that night :D
+
+<img class="thumbnailshadow" src="images\IMG_9727.jpg">
+<img class="thumbnailshadow" src="images\IMG_9716.jpg">
