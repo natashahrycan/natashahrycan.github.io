@@ -1,5 +1,5 @@
 ---
-description: I am a physics student at Universität Leipzig finishing her thesis. I work at ScaDS.AI and the Max Planck Institute of Mathematics, and soon I will be moving to Dresden to start my master's in Computer Modeling and Simulation at TU Dresden.
+description: Welcome! I am a physicist and this is where I share a bit of my life.
 ---
 
 <div style="padding-bottom: 20px;">
