@@ -4,39 +4,30 @@
     <title>Natasha Hrycan</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Natasha Hrycan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 Natasha Hrycan</copyright>
-    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor thesis</title>
+      <link>http://localhost:1313/work/research/bsc_thesis/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/research/bsc_thesis/</guid>
+      <description>An overview of the work I did for my bachelor thesis</description>
+    </item>
     <item>
       <title>My first triathlon!</title>
       <link>http://localhost:1313/about_me/first_triathlon/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/about_me/first_triathlon/</guid>
       <description>My experience in my first mountain triathlon in Norway</description>
-      
     </item>
-    
-    <item>
-      <title>Bachelor thesis</title>
-      <link>http://localhost:1313/work/research/bsc_thesis/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/research/bsc_thesis/</guid>
-      <description>An overview of the work I did for my bachelor thesis</description>
-      
-    </item>
-    
     <item>
       <title>Tips for thesis writers</title>
       <link>http://localhost:1313/studies/student_life/tips_thesis_writing/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/studies/student_life/tips_thesis_writing/</guid>
       <description>A couple of things I have learned while writing my bachelor thesis</description>
-      
     </item>
-    
   </channel>
 </rss>

@@ -4,19 +4,16 @@
     <title>Sports on Natasha Hrycan</title>
     <link>http://localhost:1313/tags/sports/</link>
     <description>Recent content in Sports on Natasha Hrycan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 Natasha Hrycan</copyright>
-    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first triathlon!</title>
       <link>http://localhost:1313/about_me/first_triathlon/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/about_me/first_triathlon/</guid>
       <description>My experience in my first mountain triathlon in Norway</description>
-      
     </item>
-    
   </channel>
 </rss>
