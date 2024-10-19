@@ -6,8 +6,15 @@
     <description>Recent content on Natasha Hrycan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboKI</title>
+      <link>http://localhost:1313/work/research/roboki/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/research/roboki/</guid>
+      <description>Educational robots project</description>
+    </item>
     <item>
       <title>Bachelor thesis</title>
       <link>http://localhost:1313/work/research/bsc_thesis/</link>
