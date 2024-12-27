@@ -6,6 +6,8 @@ draft: "False"
 tags: ["Max Planck Institute", "ScaDS.AI", "robot"]
 ---
 
+(Update: we will be organizing a workshop at Universität Leipzig in May 2025 for students who would like to learn about AI&ML modules, focusing on faculties that are not Computer Science faculties, as we are aware that they have more restricted access to subjects related to these topics)
+
 One of the main projects in which I've been working on in the last months at ScaDS.AI and MPI MIS is an educational robot. The idea was to create projects and spaces where we can combine all elements of STEAM (Science, Technology, Engineering, Arts and Mathematics), mainly focusing on the two latter ones.
 
 <img class="thumbnail" src="images/robot_grass.jpeg">

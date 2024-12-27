@@ -1,7 +1,7 @@
 ---
 title: "The maze problem"
 date: 2024-12-15
-draft: false
+draft: true
 summary: "Using different algorithms to solve the maze problem"
 tags: ["study"]
 ---
